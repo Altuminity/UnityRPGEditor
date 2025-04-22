@@ -1,7 +1,7 @@
 {
   "displayName": "Unity RPG Editor",
   "author": "Will Cashin",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "name": "com.wcashin.unityrpgeditor",
   "documentationUrl": "https://github.com/Altuminity/UnityRPGEditor",
   "changelogUrl": "https://github.com/Altuminity/UnityRPGEditor/blob/main/CHANGELOG.md",
