@@ -3,9 +3,9 @@
   "author": "Will Cashin",
   "version": "0.2.0",
   "name": "com.wcashin.unityrpgeditor",
-  "documentationUrl": "https://github.com/qhenshaw/[repourl]",
-  "changelogUrl": "https://github.com/qhenshaw/[repourl]/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/qhenshaw/[repourl]/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/Altuminity/UnityRPGEditor",
+  "changelogUrl": "https://github.com/Altuminity/UnityRPGEditor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Altuminity/UnityRPGEditor/blob/main/LICENSE.md",
   "description": "A RPG Data Editor System for Unity",
   "unity": "6000.0"
 }
